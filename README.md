@@ -1,5 +1,1 @@
-# Gestor de Incidentes Regionales
-
-Descripción del Proyecto
-
-Integrantes
+# demo_git_use
