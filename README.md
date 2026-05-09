@@ -14,12 +14,12 @@
 
 | Categoría | Tecnología |
 | :--- | :--- |
-🎨 FrontendJavaScript (ES6+), CSS3, HTML5
-☕ BackendJava (Spring Boot / Servlets)
-🗄️ DatabaseT-SQL (Microsoft SQL Server)
-📍 MapasLeaflet.js, OpenStreetMap
-🔔 UI/UXSweetAlert 2, FontAwesome
-⚙️ HerramientasGit, Maven/Gradle, JDBC Driver
+| 🎨 Frontend| JavaScript(ES6+), CSS3, HTML5| 
+| ☕ Backend| Java (Spring Boot / Servlets)| 
+| 🗄️ Database| T-SQL (Microsoft SQL Server)| 
+| 📍 Mapas| Leaflet.js, OpenStreetMap| 
+| 🔔 UI/UX| SweetAlert 2, FontAwesome| 
+| ⚙️ Herramientas| Git, Maven/Gradle, JDBC Driver| 
 
 ## 🚀 Instalación y Uso
 
@@ -48,26 +48,11 @@
 
 ## 📸 Demo
 
-![Captura de pantalla o GIF de tu proyecto](https://placeholder.com)
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/9911eed7-e9e1-4cca-8a36-d6e3c545b005" />
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son las que hacen que la comunidad de código abierto sea un lugar increíble!
-1. Haz un **Fork** del proyecto.
-2. Crea tu **Feature Branch** (`git checkout -b feature/AmazingFeature`).
-3. Haz un **Commit** de tus cambios (`git commit -m 'Add some AmazingFeature'`).
-4. Haz un **Push** a la Branch (`git push origin feature/AmazingFeature`).
-5. Abre un **Pull Request**.
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia [MIT] - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
-
----
-
-<p align="center">Hecho con ❤️ por <a href="https://github.com">[Tu Nombre]</a></p>
+<p align="center">Hecho con ❤️ por <a href="https://github.com">Paola Chang</a></p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="www.linkedin.com/in/paola-chang"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="mailto:n00530358@upn.pe"><img src="https://shields.io" alt="Email"></a>
 </p>
