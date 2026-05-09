@@ -32,7 +32,7 @@
 
 2. **Descarga y ejecuta la base de datos:**
    ```bash
-   Script de bd:
+   Script de bd: https://comunidadupnedu-my.sharepoint.com/:u:/g/personal/n00530358_upn_pe/IQDHhxuwLgsCSYPQiR5UemiAAQnWG8JxeP2z0Yx4UZ9-Gxc?e=Mz8zuJ
    Modifica el script de conexion en el proyecto: com.anontrace.utils.configDB 
    ```
 
