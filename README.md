@@ -36,7 +36,7 @@
    Modifica el script de conexion en el proyecto: com.anontrace.utils.configDB 
    ```
 
-3. **Instala las dependencias:**
+3. **Ejecuta el servidor:**
    ```bash
    Ejecuta el servidor de Tomcat Apache 9.0.40
    ```
@@ -50,9 +50,10 @@
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/9911eed7-e9e1-4cca-8a36-d6e3c545b005" />
 
-<p align="center">Hecho con ❤️ por <a href="https://github.com">Paola Chang</a></p>
-
 <p align="center">
-  <a href="www.linkedin.com/in/paola-chang"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:n00530358@upn.pe"><img src="https://shields.io" alt="Email"></a>
+  Hecho por Paola Chang</a> 
+  <a href="https://github.com/pchangr"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png" alt="github"/></a>
+  <a href="https://linkedin.com/in/paola-chang"><img width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:n00530358@upn.pe"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/></a>
 </p>
+
