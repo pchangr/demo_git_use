@@ -15,7 +15,7 @@
 | Categoría | Tecnología |
 | :--- | :--- |
 | 🎨 Frontend| JavaScript(ES6+), CSS3, HTML5| 
-| ☕ Backend| Java (Spring Boot / Servlets)| 
+| ☕ Backend| Java (Servlets)| 
 | 🗄️ Database| T-SQL (Microsoft SQL Server)| 
 | 📍 Mapas| Leaflet.js, OpenStreetMap| 
 | 🔔 UI/UX| SweetAlert 2, FontAwesome| 
